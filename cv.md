@@ -3,7 +3,7 @@
 ***Junior front-end developer***
 
 
-vikki_nelson@mail.ru +8615980932702
+**vikki_nelson@mail.ru +8615980932702**
 ***
 
 ### Education

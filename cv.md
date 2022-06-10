@@ -1,5 +1,5 @@
 # Anastasiya Dziatsinkina
-
+image.png
 ***Junior front-end developer***
 
 
@@ -24,5 +24,9 @@
 * HTML5
 * CSS
 * Javascript
-* Boostrap
-* Languages: English(C2), Chinese(C1)zz
+* Bootstrap
+
+### Languages
+* English(C2)
+* Chinese(C1)
+* German (A2)

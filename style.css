@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Roboto;
+     src: url("assets/fonts/Roboto.ttf");
+}
+* {
+    box-sizing: border-box;
+  }
+header {   
+}  
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+    
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
